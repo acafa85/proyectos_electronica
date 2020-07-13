@@ -1,2 +1,2 @@
 # proyectos_electronica
-Proyectos desarrollados
+Proyectos desarrollado: Inclinometro Digital con Sensor Digital
